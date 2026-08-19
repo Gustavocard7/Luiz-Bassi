@@ -19,6 +19,8 @@
 - [x] Sincronizar a versão atualizada do site no repositório Gustavocard7/Luiz-Bassi.
 - [x] Orientar a conexão e concluir o deploy no Render.
 - [x] Corrigir a incompatibilidade inicial do comando de build no ambiente do Render.
-- [ ] Reposicionar a mensagem principal para não cobrir os rostos no retrato.
-- [ ] Ajustar a hero para os principais pontos de quebra responsivos.
-- [ ] Validar a abertura em desktop, tablet e celular e salvar a revisão.
+- [x] Reposicionar a mensagem principal para não cobrir os rostos no retrato.
+- [x] Ajustar a hero para os principais pontos de quebra responsivos.
+- [x] Validar a abertura em desktop, tablet e celular e salvar a revisão.
+- [x] Refinar o enquadramento do retrato na hero mobile.
+- [x] Validar a composição móvel e salvar a revisão.
