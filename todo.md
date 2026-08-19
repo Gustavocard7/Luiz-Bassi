@@ -1,0 +1,20 @@
+- [x] Confirmar elementos essenciais da identidade atual da clínica.
+- [x] Localizar fotos públicas adequadas de Luiz Bassi e da equipe em fontes oficiais.
+- [x] Ajustar paleta, logotipo e composição do site para maior fidelidade à marca atual.
+- [x] Substituir os visuais genéricos por imagens reais aprovadas/publicamente disponíveis.
+- [x] Reforçar a assinatura oficial e o sistema de arcos como linguagem recorrente.
+- [x] Validar a experiência em desktop e celular e salvar a versão revisada.
+- [x] Mapear as fontes oficiais disponíveis e confirmar o limite das imagens públicas encontradas.
+- [x] Encontrar uma foto institucional oficial em melhor resolução para a abertura do site.
+- [x] Aplicar a nova foto como principal elemento visual da primeira dobra.
+- [x] Validar a nova abertura em desktop e celular e salvar a revisão.
+- [x] Criar um retrato profissional fiel a Luiz Bassi e Márcia Moreira a partir da foto institucional atual.
+- [x] Substituir a imagem principal da abertura pelo novo retrato profissional.
+- [x] Validar a composição em desktop e celular e salvar a nova versão.
+- [ ] Centralizar a mensagem principal da abertura.
+- [ ] Aplicar o retrato profissional como imagem de fundo com contraste seguro para o texto.
+- [ ] Validar a nova composição em desktop e celular e salvar a revisão.
+- [x] Verificar a configuração atual do repositório e os requisitos de hospedagem do Render.
+- [x] Criar os arquivos de configuração de deploy necessários para o Render.
+- [ ] Sincronizar a versão atualizada do site no repositório Gustavocard7/Luiz-Bassi.
+- [ ] Orientar a conexão e o deploy no Render.
