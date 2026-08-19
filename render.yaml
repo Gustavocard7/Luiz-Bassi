@@ -2,7 +2,7 @@ services:
   - type: web
     name: luiz-bassi-marcia-moreira
     runtime: static
-    buildCommand: corepack enable && pnpm install --frozen-lockfile && pnpm build
+    buildCommand: pnpm install --frozen-lockfile && pnpm build
     staticPublishPath: ./dist/public
     routes:
       - type: rewrite

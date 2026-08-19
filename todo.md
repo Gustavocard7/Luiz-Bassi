@@ -16,5 +16,6 @@
 - [ ] Validar a nova composição em desktop e celular e salvar a revisão.
 - [x] Verificar a configuração atual do repositório e os requisitos de hospedagem do Render.
 - [x] Criar os arquivos de configuração de deploy necessários para o Render.
-- [ ] Sincronizar a versão atualizada do site no repositório Gustavocard7/Luiz-Bassi.
+- [x] Sincronizar a versão atualizada do site no repositório Gustavocard7/Luiz-Bassi.
 - [ ] Orientar a conexão e o deploy no Render.
+- [x] Corrigir a incompatibilidade inicial do comando de build no ambiente do Render.

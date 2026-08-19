@@ -9,3 +9,7 @@ Após o primeiro deploy, abra a URL provisória gerada pelo Render e teste os li
 > O repositório contém uma regra de rewrite para que quaisquer rotas futuras da aplicação continuem abrindo corretamente em uma hospedagem estática.
 
 As imagens institucionais usam URLs públicas absolutas para que continuem disponíveis quando o site for servido pelo domínio do Render. Elas não precisam ser enviadas novamente ao repositório para o primeiro deploy.
+
+## Nota de compatibilidade
+
+O Render já disponibiliza `pnpm` no ambiente de build. Por isso, o comando de publicação usa diretamente `pnpm install --frozen-lockfile && pnpm build`, sem executar `corepack enable`, que tenta alterar arquivos protegidos do ambiente de hospedagem.
